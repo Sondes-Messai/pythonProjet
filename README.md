@@ -36,7 +36,7 @@ Ce projet est une application web Django pour gérer une bibliothèque locale. V
 
 Pour plus de détails, consultez les tutoriels officiels de Django :
 - [Écriture de votre première application Django, 2ème partie](https://docs.djangoproject.com/fr/5.0/intro/tutorial02/)
-- [Django Didactique: Site web \"Bibliothèque locale\"](https://developer.mozilla.org/fr/docs/Learn/Server-side/Django/Tutorial_local_library_website)
+-https://www.djangoproject.com/
 
  Bon développement ! 🚀
 
