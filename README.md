@@ -1,5 +1,5 @@
 
-# Application Django pour une bibliothèque
+#📕​📖​📗​📘​📙​📚​📒​ Application Django pour une bibliothèquelivre📕​📖​📗​📘​📙​📚​📒​
 
 Ce projet est une application web Django pour gérer une bibliothèque locale. Vous pouvez suivre les étapes ci-dessous pour démarrer votre propre projet similaire.
 
