@@ -32,10 +32,12 @@ Ce projet est une application web Django pour gérer une bibliothèque locale. V
    - Lancez le serveur avec `python manage.py runserver`.
    - Accédez à l'URL indiquée dans votre navigateur pour voir votre application.
      <br>
-8.Exécution des tests:
+     
+8. Exécution des tests:
+   
 Django dispose d’un framework de test intégré que vous pouvez utiliser pour tester votre application. Pour exécuter les tests, utilisez la commande suivante :
 
-python manage.py test bibliotheque
+`python manage.py test bibliotheque`
 
 ## Documentation supplémentaire
 
