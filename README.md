@@ -42,7 +42,7 @@ Django dispose d’un framework de test intégré que vous pouvez utiliser pour 
 ## Documentation supplémentaire
 
 Pour plus de détails, consultez les tutoriels officiels de Django :
-- [Écriture de votre première application Django, 2ème partie](https://docs.djangoproject.com/fr/5.0/intro/tutorial02/)
+- [Écriture de votre première application Django, 2ème partie](https://www.djangoproject.com/)
 -https://www.djangoproject.com/
 
  Bon développement ! 🚀
