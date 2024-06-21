@@ -43,7 +43,7 @@ Django dispose d’un framework de test intégré que vous pouvez utiliser pour 
 
 Pour plus de détails, consultez les tutoriels officiels de Django :
 
- 🐍 -https://www.djangoproject.com/  🐍 
+  -https://www.djangoproject.com/  🐍 
 
  Bon développement ! 🚀 🐍
 
